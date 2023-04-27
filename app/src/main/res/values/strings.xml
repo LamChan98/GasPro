@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GasPro</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="googles_maps_key">AIzaSyAaq73MWkg5P2UQsnNU53uveLRHPQXFI2s</string>
+</resources>
